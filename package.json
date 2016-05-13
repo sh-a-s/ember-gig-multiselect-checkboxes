@@ -1,7 +1,7 @@
 {
   "name": "ember-gig-multiselect-checkboxes",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "multiselect-checkboxes",
   "directories": {
     "doc": "doc",
     "test": "tests"
