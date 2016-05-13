@@ -1,4 +1,4 @@
 import Ember from 'ember';
-import ExtPopOver from 'ember-ext-pop-over/helpers/ext-pop-over';
+import GigMultiselectCheckboxes from 'ember-gig-multiselect-checkboxes/helpers/gig-multiselect-checkboxes';
 
-export default Ember.Handlebars.makeBoundHelper(ExtPopOver);
+export default Ember.Handlebars.makeBoundHelper(GigMultiselectCheckboxes);
